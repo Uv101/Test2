@@ -45,6 +45,9 @@
     <string name="updated_at">updated_at</string>
     <string name="city">city</string>
     <string name="zip">zip</string>
+
+
+    <string name="Welcome">Welcome.....</string>
     <!--<string name="distance">distance</string>-->
 
 
