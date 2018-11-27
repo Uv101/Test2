@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorWhite">#ffff</color>
+    <color name="colorhometop">#427A46</color>
+    <color name="colorbg">#E1DFDB</color>
+    <color name="colorview">#DEDEDA</color>
+    <color name="colorBottomNavigation">#292A24</color>
+
+    <!--for testing-->
+    <color name="test_row">#C3F3C7</color>
+</resources>

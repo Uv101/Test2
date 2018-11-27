@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="title_activity_main">ActivityMain</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="title">Title :</string>
+    <string name="from">Frm :</string>
+    <string name="date_">Date :</string>
+
+
+    <!--Key-->
+    <string name="user_id">user_id</string>
+    <string name="user_late">user_late</string>
+    <string name="user_log">user_log</string>
+    <string name="distance">distance</string>
+    <string name="date">date</string>
+    <string name="time">time</string>
+
+
+    <!--Response-->
+    <string name="response">response</string>
+    <string name="message">message</string>
+    <string name="service_provider">service_provider</string>
+
+    <string name="id">id</string>
+    <string name="company_id">id</string>
+    <string name="first_name">first_name</string>
+    <string name="last_name">last_name</string>
+    <string name="description">description</string>
+    <string name="date_of_birth">date_of_birth</string>
+    <string name="profile_pic">profile_pic</string>
+    <string name="username">username</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="mobile">mobile</string>
+    <string name="phone_no">phone_no</string>
+    <string name="address">address</string>
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
+    <string name="user_role">user_role</string>
+    <string name="is_active">is_active</string>
+    <string name="created_at">created_at</string>
+    <string name="updated_at">updated_at</string>
+    <string name="city">city</string>
+    <string name="zip">zip</string>
+    <!--<string name="distance">distance</string>-->
+
+
+</resources>
